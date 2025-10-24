@@ -37,9 +37,14 @@ All commands are built with slash commands and many are restricted to staff role
 
 Below are the assets used for order/ticket embeds and post-order visuals.
 
-- `assets/order-completed-embed.png`  Example embed shown when an order has been completed and a payment summary is generated.
-- `assets/post-order-embed.png`  Example of the Order Information embed published to a forum thread for staff to claim.
-- `assets/post-order.png`  Example of a post-order channel view after claim, showing context and pinned details.
+![Example embed shown when an order has been completed and a payment summary is generated.](assets/order-completed-embed.png)  
+*Example embed shown when an order has been completed and a payment summary is generated.*
+
+![Example of the Order Information embed published to a forum thread for staff to claim.](assets/post-order-embed.png)  
+*Example of the Order Information embed published to a forum thread for staff to claim.*
+
+![Example of a post-order channel view after claim, showing context and pinned details.](assets/post-order.png)  
+*Example of a post-order channel view after claim, showing context and pinned details.*
 
 ## How It Works (High Level)
 
