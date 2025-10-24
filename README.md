@@ -61,5 +61,5 @@ Below are the assets used for order/ticket embeds and post-order visuals.
 
 ## Notes
 
-- Many actions are restricted by role. Review role IDs like `SELLER_ROLE_ID`, `FRIEND_ROLE_ID`, `ONE_ORDER_ROLE_ID`, staff roles, and category/channel IDs used for routing.
+- Many actions are restricted by role/permission. This was originally a Discord bot tailored for a specific server with robust IAM perms.
 - Payment options can be initialized with the `payments` command; actual payment processing hooks are represented by buttons and follow-up flows inside your server.
